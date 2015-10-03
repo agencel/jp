@@ -6,6 +6,7 @@ Materiały Jezyki programowania
  - [ ] Bash
  - [ ] SSH 
  - [ ] Hasła
+ - [ ] Podstawy [Git](https://git-scm.com/book/en/v2)
 
 ## Pierwsze programy w C
 
