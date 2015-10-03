@@ -1,6 +1,7 @@
 # JP
 Materiały Jezyki programowania
  - [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
+ - [ ] [GFM](https://help.github.com/articles/github-flavored-markdown/)
  - [ ] Atom edytor
  - [ ] Bash
  - [ ] SSH 
