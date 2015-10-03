@@ -1,4 +1,16 @@
 # JP
-Materiały jezyki programowania
+Materiały Jezyki programowania
  - [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
- - [ ] coś jeszcze Atom edytor, Bash, SSH, hasła
+ - [ ] Atom edytor
+ - [ ] Bash
+ - [ ] SSH 
+ - [ ] Hasła
+
+## Pierwsze programy w C
+
+Zwykle zaczynamy od programu [hello world](/):
+
+```c
+int main() {
+ printif("hello world\n");
+ }
