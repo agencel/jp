@@ -1,2 +1,1 @@
-# jp
-materiały jezyki programowania
+# Materiały jezyki programowania
