@@ -14,8 +14,7 @@ Materiały Jezyki programowania
 * [x] [5a.c](https://github.com/agencel/laboratiora/blob/master/5a.c)
 * [x] [5b.c](https://github.com/agencel/laboratiora/blob/master/5b.c)
 * [x] [6.c](https://github.com/agencel/laboratiora/blob/master/6.c)
-* [x] [7.c](https://github.com/agencel/laboratiora/blob/master/7.c
-* )
+* [x] [7.c](https://github.com/agencel/laboratiora/blob/master/7.c)
 * [x] [8.c](https://github.com/agencel/laboratiora/blob/master/8.c)
 * [x] [9.c](https://github.com/agencel/laboratiora/blob/master/9.c)
 
