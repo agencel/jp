@@ -39,7 +39,7 @@ Materiały Jezyki programowania
 * [x] [3.c](https://github.com/agencel/laboratiora/blob/master/31.c)
 * [x] [4.c](https://github.com/agencel/laboratiora/blob/master/41.c)
 * [x] [5.c BRAK](funkcje/5.c)
-* [x] [6.c BRAK(funkcje/6.c)
+* [x] [6.c BRAK](funkcje/6.c)
 * [x] [7.c](https://github.com/agencel/laboratiora/blob/master/711.c)
 * [x] [8.c](https://github.com/agencel/laboratiora/blob/master/811.c)
 
