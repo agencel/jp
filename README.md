@@ -23,22 +23,17 @@ Materiały Jezyki programowania
 * [x] [0.c](https://github.com/agencel/laboratiora/blob/master/01.c)
 * [x] [1.c](https://github.com/agencel/laboratiora/blob/master/1.c)
 * [x] [2.c](https://github.com/agencel/laboratiora/blob/master/2.c)
-* [x] [3.c](https://github.com/agencel/laboratiora/blob/master/3.c)
 * [x] [4.c](https://github.com/agencel/laboratiora/blob/master/4.c)
 * [x] [5.c](https://github.com/agencel/laboratiora/blob/master/5.c)
 * [x] [6.c](https://github.com/agencel/laboratiora/blob/master/61.c)
 * [x] [7.c](https://github.com/agencel/laboratiora/blob/master/71.c)
-* [x] [8.c BRAK](petle/8.c)
 * [x] [9.c](https://github.com/agencel/laboratiora/blob/master/91.c)
 * [x] [10.c](https://github.com/agencel/laboratiora/blob/master/10.c)
 
 3.  Funkcje:
-* [x] [1.c](https://github.com/agencel/laboratiora/blob/master/11.c)
 * [x] [2.c](https://github.com/agencel/laboratiora/blob/master/21.c)
 * [x] [3.c](https://github.com/agencel/laboratiora/blob/master/31.c)
 * [x] [4.c](https://github.com/agencel/laboratiora/blob/master/41.c)
-* [x] [5.c BRAK](funkcje/5.c)
-* [x] [6.c BRAK](funkcje/6.c)
 * [x] [7.c](https://github.com/agencel/laboratiora/blob/master/711.c)
 * [x] [8.c](https://github.com/agencel/laboratiora/blob/master/811.c)
 
